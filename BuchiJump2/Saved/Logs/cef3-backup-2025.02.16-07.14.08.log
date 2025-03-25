@@ -1,10 +1,0 @@
-[1217/074257.328:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1217/074448.635:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1217/080241.305:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1217/080336.248:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[1217/080336.248:ERROR:cache_util.cc(144)] Unable to move cache folder C:/GitHub/project-buchi-jump-2/BuchiJump2/Saved/webcache_4430\Cache to C:/GitHub/project-buchi-jump-2/BuchiJump2/Saved/webcache_4430\old_Cache_000
-[1217/080336.249:ERROR:disk_cache.cc(184)] Unable to create cache
-[1217/080404.545:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1217/080409.069:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
-[1217/080409.069:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
-[1217/080430.352:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
